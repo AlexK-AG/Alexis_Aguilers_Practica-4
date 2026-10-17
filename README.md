@@ -206,3 +206,9 @@ Las pruebas de navegador requieren Playwright y Edge únicamente para desarrollo
 - **Godot-SQLite v4.8**, de 2shady4u: integración nativa con licencia [MIT incluida](addons/godot-sqlite/LICENSE.md). Véanse sus [notas de integración](addons/godot-sqlite/PROJECT_NOTES.md).
 
 Las licencias de los recursos y dependencias se mantienen junto a sus archivos correspondientes.
+
+## INTEGRANTES
+
+- **Aguilera Correa Alexis Kaleb
+- **Luquin Gonzalez Jose Ernesto
+- **Hernandez Huizar Brian Abraham
