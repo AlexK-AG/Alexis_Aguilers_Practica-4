@@ -209,6 +209,6 @@ Las licencias de los recursos y dependencias se mantienen junto a sus archivos c
 
 ## INTEGRANTES
 
-- **Aguilera Correa Alexis Kaleb
-- **Luquin Gonzalez Jose Ernesto
-- **Hernandez Huizar Brian Abraham
+- **Aguilera Correa Alexis Kaleb**
+- **Luquin Gonzalez Jose Ernesto**
+- **Hernandez Huizar Brian Abraham**
